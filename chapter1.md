@@ -1,3 +1,22 @@
-# First Chapter
+# 導入背景
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 学生との繋がり多様化のため、情報分散
+
+
+
+* 授業　課題の作成と回収
+  * ドキュメント \(Word、Excel、Power Point\)
+  * メールに添付したファイルのやりとり
+* 電子メール
+  * Outlook, Gmail, QQ, …
+* 個別連絡
+  * 電話、SMS, LINE, WeChat, Facebook, …
+
+### 問題点：
+
+* 特定のツール（電話のみ、携帯のみ、PCのみ…）に限定
+* 情報分散で整理は大変
+* 連絡の方法は複雑（複数のID）
+
+
+
